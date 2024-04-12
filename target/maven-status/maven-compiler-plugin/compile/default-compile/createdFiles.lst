@@ -1,0 +1,9 @@
+fr\hetic\OperationFactory.class
+fr\hetic\CalculatorAppFonctionnel.class
+fr\hetic\InputParser.class
+fr\hetic\CalculatorException.class
+fr\hetic\SyntaxErrorException.class
+fr\hetic\UnsupportedOperatorException.class
+fr\hetic\Calculateur.class
+fr\hetic\Calculator.class
+fr\hetic\Operation.class

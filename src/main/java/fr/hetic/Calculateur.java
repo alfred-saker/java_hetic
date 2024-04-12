@@ -1,3 +1,4 @@
+package fr.hetic;
 public class Calculateur {
     public static void main(String[] args) {
         // Vérification du nombre d'arguments
